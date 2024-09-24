@@ -1,6 +1,7 @@
 This is the labs for the course ECE243: Computer Organization at the University of Toronto. 
 
  Contents of labs includes:
+ 
  Lab 1: Introduction to Assembly Language Programming, CPULator and the Monitor Program
  Lab 2: Accessing Memory, Loops, Conditional Branches
  Lab 3 - Logic Instructions, Subroutines and Memory Mapped Output
